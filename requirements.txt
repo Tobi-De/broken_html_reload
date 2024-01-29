@@ -485,7 +485,7 @@ qtpy==2.4.1
     # via qtconsole
 redis==5.0.1
     # via hatch.envs.default
-referencing==0.32.1
+referencing==0.33.0
     # via
     #   jsonschema
     #   jsonschema-specifications
