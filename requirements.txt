@@ -464,7 +464,7 @@ python-slugify==8.0.1
     # via cookiecutter
 python3-openid==3.2.0
     # via django-allauth
-pytz==2023.3.post1
+pytz==2023.4
     # via pandas
 pyyaml==6.0.1
     # via
